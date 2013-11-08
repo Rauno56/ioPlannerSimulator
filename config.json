@@ -1,0 +1,7 @@
+{
+	"discSize": 20,
+	"startingDirection": 1,
+	"startingPosition": "random",
+	"algorithm": ["clook", "noop"],
+	"reads": [1,2,3,4,5,6]
+}

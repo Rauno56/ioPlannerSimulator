@@ -1,0 +1,15 @@
+{
+  "name": "ioPlanningSimulator",
+  "version": "0.0.1",
+  "engines" : { "node" : ">=0.10.21 <0.12" },
+  "description": "Simulating io planning using diffenrent algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rauno Viskus",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.2.1"
+  }
+}
