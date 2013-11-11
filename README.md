@@ -12,3 +12,5 @@ Kõik konfitav on failis `config.json`:
  - **reads**: Päringud kettale.
 On eelprogrammeeritud ka kolm näidet iseloomustamaks erinevate algoritmide tugevaid ja nõrki kohti ning erinevusi, nende käivitamiseks: `node ~/tee/kataloogini/example*.js`
 Klasside API on vägagi *self-explanatory* ning näide on olemas `index.js` failis.
+
+*https://github.com/Rauno56/ioPlannerSimulator.git*
